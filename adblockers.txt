@@ -1,0 +1,9 @@
+||radar.cloudflare.com^$important
+||nel.cloudflare.com^$important
+||sparrow.cloudflare.com^$important
+||cloudflareinsights.com^$important
+||feedback.developers.cloudflare.com^$important
+||gates.cloudflare.com^$important
+||nonexistent.cloudflare.com^$important
+||cloudflareresearch.com^$important
+||research.cloudflare.com^$denyallow=research.cloudflare.com
