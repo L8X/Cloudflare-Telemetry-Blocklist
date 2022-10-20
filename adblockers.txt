@@ -1,3 +1,5 @@
+@@||research.cloudflare.com
+@@||radar.cloudflare.com
 ||nel.cloudflare.com^$important
 ||sparrow.cloudflare.com^$important
 ||feedback.developers.cloudflare.com^$important
