@@ -16,7 +16,7 @@
 ||report-uri.cloudflare.com^$important
 ||tr.www.cloudflare.com^$important
 ||tr.cloudflare.com^$important
-||tr.ns.cloudflare.com
+||tr.ns.cloudflare.com^$important
 ||tracksp.cloudflare.com^$important
 ||tracksp.www.cloudflare.com^$important
 ||opaque.research.cloudflare.com^$important
